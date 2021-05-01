@@ -1,34 +1,22 @@
-# hogwarts
+**Table of Contents**
 
-## Project setup
-```
-yarn install
-```
+[TOCM]
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Stack
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- Vue2
+- Vuex (Handler Logic functions)
+- Vue Router (Handler routing)
+- Vuetify (UI Kit)
 
-### Run your unit tests
-```
-yarn test:unit
-```
+### Instructions
 
-### Run your end-to-end tests
-```
-yarn test:e2e
-```
+1.  Clone repository
+2.  yarn install / npm install
+3.  yarn serve / npm run serve
 
-### Lints and fixes files
-```
-yarn lint
-```
+###API
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Harry Potter API](https://hp-api.herokuapp.com/)
+
+###End

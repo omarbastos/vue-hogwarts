@@ -1,6 +1,4 @@
-**Table of Contents**
 
-[TOCM]
 
 ### Stack
 
